@@ -1,0 +1,1 @@
+cat "/c/Users/João Cipriano/.ssh/id_ed25519.pub"
